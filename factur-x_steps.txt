@@ -1,0 +1,6 @@
+1. Install the necessary libraries such as lxml, pyxb, and requests
+2. Import the required modules such as ElementTree, QName, and pyxb
+3. Define the required parameters such as the sender and recipient information, invoice details, and tax information
+4. Use the ElementTree module to create the XML structure of the invoice
+5. Use the pyxb module to generate the Factur-X XML
+6. Use the requests module to send the generated Factur-X XML to the desired recipient.

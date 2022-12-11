@@ -1,0 +1,4 @@
+https://avepdf.com/pdfa-validation
+https://www.pdfen.com/pdf-a-validator
+
+A recomended opensource validator is VeraPDF
